@@ -2,7 +2,6 @@
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning game design
 - 📫 How to reach me md134923@ohio.edu
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: my favorite color is blue
 
 <!---
